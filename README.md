@@ -21,7 +21,7 @@ clients to perform basic banking operations.
 ## 🚀 How to Run
 
 1. Clone the repository
-   git clone https://github.com/YOUR_USERNAME/ATM-System.git
+   git clone https://github.com/Aissamfreee/ATM-System.git
 
 2. Compile
    g++ main.cpp -o ATM
@@ -42,3 +42,7 @@ A100#//#1234#//#Ahmed Ali#//#0501234567#//#5000
 
 - Balances are saved automatically after every transaction
 - Invalid login attempts loop until correct credentials are entered
+
+## 👤 Author
+
+GitHub: [@Aissamfreee](https://github.com/Aissamfreee) login attempts loop until correct credentials are entered
